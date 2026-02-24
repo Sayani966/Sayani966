@@ -1,5 +1,5 @@
-#  Hi 👋🏻
-  I'm Sayani
+#  Hi 👋🏻 I'm Sayani,
+  Exploring-learning-Building
 
 # 🌐Socials:
 

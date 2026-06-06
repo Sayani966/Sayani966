@@ -1,5 +1,8 @@
-#  Hi 👋🏻 I'm Sayani,
-  Exploring-learning-Building
+# Hi 👋 I'm Sayani Rana
+
+Cybersecurity Student | Networking | Linux | Ethical Hacking
+
+Currently exploring Linux, Network Security, and Offensive Security through hands-on labs and projects.
 
 # 🌐Socials:
 

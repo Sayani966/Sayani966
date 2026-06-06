@@ -3,6 +3,19 @@
 Cybersecurity Student | Networking | Linux | Ethical Hacking
 
 Currently exploring Linux, Network Security, and Offensive Security through hands-on labs and projects.
+## About Me
+
+🔹 Third-year Engineering Student
+
+🔹 CCNA Certified
+
+🔹 Learning Linux Administration
+
+🔹 Exploring Ethical Hacking and Security Labs
+
+🔹 Interested in Offensive Security and Adversary Simulation
+
+🔹 Building practical cybersecurity projects
 
 # 🌐Socials:
 
